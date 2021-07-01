@@ -1,2 +1,2 @@
 # hyperblog
-Ejercicio de prueba del curso de Platzi
+Ejercicio de prueba del curso de Luis Dellamea
